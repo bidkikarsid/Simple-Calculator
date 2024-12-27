@@ -5,7 +5,7 @@ https://expo.dev/accounts/bidkikarsiddesh/projects/calbysid/builds/da618407-8aca
 A Simple React Native calculator.
 
 ### Screens
-![App Screenshot](assets/images/Screenshot 2024-12-27 202108.png)
+![App Screenshot](assets/images/screenshot_calc.png)
 
 ---
 
