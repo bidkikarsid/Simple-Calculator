@@ -5,7 +5,7 @@ https://expo.dev/accounts/suraj24/projects/cal-by-suraj/builds/0233bc85-58dc-486
 A Simple React Native calculator.
 
 ### Screens
-![App Screenshot](assets/images/file_2024-12-27_12.47.33.png)
+![App Screenshot](assets/images/Screenshot 2024-12-27 202108.png)
 
 ---
 
